@@ -1,0 +1,159 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: MIND Theme WordPress Pot v1.0.0\n"
+"POT-Creation-Date: 2018-12-27 15:02+0900\n"
+"PO-Revision-Date: \n"
+"Language-Team: kitaji <mail.kitajima@gmail.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: Takahiro Kitajima <mail.kitajima@gmail.com>\n"
+"Language: ja\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ページが見つかりません。"
+
+#: 404.php:12
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "何も見つかりませんでした。もう一度検索しますか？"
+
+#: functions.php:324
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#: functions.php:397
+msgid ", "
+msgstr ""
+
+#: functions.php:400
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:404
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: functions.php:407
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: header.php:64 header.php:79 header.php:94 template-parts/content.php:74
+msgid "Read More"
+msgstr "もっと見る"
+
+#: index.php:24 page-lp.php:18 page.php:14 search.php:22
+msgid "Previous"
+msgstr "前の記事へ"
+
+#: index.php:25 page-lp.php:19 page.php:15 search.php:23
+msgid "Next"
+msgstr "次の記事へ"
+
+#: search.php:10
+msgid "Search for:"
+msgstr "検索する："
+
+#: template-parts/content-none.php:14 template-parts/content-none.php:37
+msgid "Not Found."
+msgstr "何も見つかりませんでした。もう一度検索しますか？"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-search.php:47
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "ページ："
+
+#: template-parts/content-search.php:35 template-parts/content-search.php:56
+#: template-parts/content.php:38 template-parts/content.php:64
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-search.php:15
+msgid "last updated:"
+msgstr "更新日："
+
+msgid "Header Navi"
+msgstr "ヘッダーナビゲーション"
+
+msgid "Footer Navi"
+msgstr "フッターナビゲーション"
+
+msgid "Induction Area"
+msgstr "誘導エリア"
+
+msgid "Induction Banner1"
+msgstr "誘導バナー1"
+
+msgid "Induction Banner2"
+msgstr "誘導バナー2"
+
+msgid "Induction Banner3"
+msgstr "誘導バナー3"
+
+msgid "Enable"
+msgstr "有効"
+
+msgid "You can select the fixed page you want to display in the guidance area of the top page."
+msgstr "トップページ誘導エリアに表示させたい固定ページを選択できます。"
+
+msgid "Author"
+msgstr "投稿者"
+
+msgid "Search Keywords"
+msgstr "検索キーワード"
+
+msgid "Please set the character string to be displayed in the copy part of the footer."
+msgstr "フッターのコピー部分に表示させたい文字列を設定してください。"
+
+msgid "Logo Image"
+msgstr "ロゴ画像"
+
+msgid "Please upload a logo image. If you do not use images, text will be displayed."
+msgstr "ロゴ画像をアップロードしてください。画像を使用しない場合はテキストが表示されます。"
+
+msgid "Please set a logo image."
+msgstr "ロゴ画像を設定してください。"
+
+msgid "Side Area"
+msgstr "サイドエリア"
+
+msgid "Side Under Area"
+msgstr "サイド下部エリア"
+
+msgid "CTA Area"
+msgstr "記事下CTAエリア"
+
+msgid "1 Comment"
+msgstr "1コメント"
+
+msgid "% Comment"
+msgstr "%コメント"
+
+msgid "Edit"
+msgstr "編集"

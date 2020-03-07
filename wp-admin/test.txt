@@ -1,0 +1,8 @@
+Hi all, berikut update network pentestnya.
+
+*Lokasi:* Headquarter
+	- Melakukan passive scanning, tapi masih blm menemukan credential untuk akses ke critical system. Sampai saat ini kita masih coba gather info.
+	
+*To-do:*
+	- Melakukan active
+	- Trying bypass NAC
